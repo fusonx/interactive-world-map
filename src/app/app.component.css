@@ -1,0 +1,26 @@
+.d-flex {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .map-container {
+    overflow-x: auto;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .map-container app-svg-map {
+    width: auto;
+    height: 100%;
+  }
+  
+  .info-container {
+    width: 300px;
+    padding: 30px;
+    background-color: #f8f9fa;
+    overflow-y: auto; 
+    height: 675px;
+  }

@@ -1,0 +1,4 @@
+<form (submit)="onFormSubmit($event)">
+    <label for="searchTerm" class="font-weight-bold">Enter a Country Name and Hit Enter:</label>
+    <input id="searchTerm" (input)="setTerm($event)" />
+</form>
