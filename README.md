@@ -1,6 +1,3 @@
-# Interactive World Map
-An interactive world map built with **SVG**, **JavaScript**, and **Angular** that highlights countries on mouse events. The map provides dynamic, country-specific information through integration with **REST APIs**.
-
 # Interactive World Map (JavaScript & Angular)
 
 An interactive world map built with **SVG**, **JavaScript**, and **Angular** that highlights countries on mouse events. The map provides dynamic, country-specific information through integration with **REST APIs**.
